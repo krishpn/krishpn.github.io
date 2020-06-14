@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-Krishna Neupane is a PhD student at George Mason University. Krishna has a decade of experiences in private sector and federal consultancy in areas of economics, data analytics, data modeling, data architecting, predictions, visualizations and inferences. 
+I have a decade of experiences in private sector and federal consultancy in areas of economics, data analytics, data modeling, data architecting, predictions, inferences and visualizations. Together with professional life, I am a PhD student at George Mason University. My interests are in human connectivity. It builds in techniques that are used in statistical physics, machine learning and economics to understand human behavior. 
