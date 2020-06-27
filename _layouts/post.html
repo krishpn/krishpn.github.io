@@ -18,11 +18,13 @@ layout: default
 
             <p class= "lead">
 
-                by <a href="a">Krishna Neupane</a>
-                
+            
                 <!---Date and Time -->
 
-                {{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}
+
+                <p> by % if page.author %} • {{ page.author }} {% endif %} posted on {{ page.date | date: "%b %-d, %Y" }}</p>{
+                
+                {% if page.meta %} • {{ page.meta }}{% endif %}
 
 
             </p>p>
