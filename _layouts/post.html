@@ -2,7 +2,39 @@
 layout: default
 ---
 
-<h2>{{ page.title }}</h2>
-<time>{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</time>
+<article id ="post">
 
-{{ content }}
+    <div class="container">
+
+        <div class="col-lg-8">
+
+            <!---Blog Post Content -->
+
+
+            <!---Title -->
+            <h2>{{ page.title }}</h2>
+
+            <!---Author -->
+
+            <p class= "lead">
+
+                by <a href="a">Krishna Neupane</a>
+                
+                <!---Date and Time -->
+
+                {{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}
+
+
+            </p>p>
+
+
+
+        </div>
+
+
+    </div>
+
+</article>
+
+
+{{ page.content }}
