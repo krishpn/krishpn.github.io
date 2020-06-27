@@ -22,7 +22,9 @@ layout: default
                 <!---Date and Time -->
 
 
-                by % if page.author %} • {{ page.author }} {% endif %} posted on {{ page.date | date: "%b %-d, %Y" }}
+                by {{% if page.author %} • {{ page.author }} {% endif %} 
+                
+                posted on {{ page.date | date: "%b %-d, %Y" }}
                 {{% if page.meta %} • {{ page.meta }}{% endif %}
 
 
