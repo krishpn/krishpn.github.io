@@ -3,29 +3,14 @@ layout: default
 ---
 
 <article id="post">
-
     <div class="container">
-
         <div class="col-lg-8">
-
-            <!---Blog Post Content -->
-
-
-            <!---Title -->
             <h2>{{ page.title }}</h2>
 
-            <!---Author -->
-
             <p class="lead">
-
-
-                <!---Date and Time -->
-
-
                 by {% if page.author %} • {{ page.author }} {% endif %}
                 • posted on {{ page.date | date: "%b %-d, %Y" }}
                 {% if page.meta %} • {{ page.meta }}{% endif %}
-
 
             </p>
 
