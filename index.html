@@ -2,9 +2,13 @@
 layout: default
 ---
 
-This is Krishna Neupane
+<button class="tablink" onclick="openPage('Home', this, 'red')">Home</button>
+<button class="tablink" onclick="openPage('News', this, 'green')" id="defaultOpen">News</button>
+<button class="tablink" onclick="openPage('Contact', this, 'blue')">Contact</button>
+<button class="tablink" onclick="openPage('About', this, 'orange')">About</button>
+
 
 {% for post in site.posts %}
-  <time>{{ post.date | date: "%b %-d, %Y" }}</time>
-  <h3><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
+<time>{{ post.date | date: "%b %-d, %Y" }}</time>
+<h3><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
 {% endfor %}
