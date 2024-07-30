@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Unsupervised Learning Test"
+title:  "Test Page"
 date:   2020-06-27
 ---
 
-Only academic topics.
+Range of Topics
