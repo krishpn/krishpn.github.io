@@ -8,7 +8,30 @@ layout: default
 <button class="tablink" onclick="openPage('About', this, 'orange')">About</button>
 
 
-{% for post in site.posts %}
-<time>{{ post.date | date: "%b %-d, %Y" }}</time>
-<h3><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
-{% endfor %}
+
+<div id="Home" class="tabcontent">
+  <h3>Home</h3>
+  <p>Home is where the heart is..</p>
+</div>
+
+<div id="News" class="tabcontent">
+  <h3>News</h3>
+  <p>Some news this fine day!</p>
+
+  {% for post in site.posts %}
+  <time>{{ post.date | date: "%b %-d, %Y" }}</time>
+  <h3><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
+  {% endfor %}
+
+
+</div>
+
+<div id="Contact" class="tabcontent">
+  <h3>Contact</h3>
+  <p>Get in touch, or swing by for a cup of coffee.</p>
+</div>
+
+<div id="About" class="tabcontent">
+  <h3>About</h3>
+  <p>Who we are and what we do.</p>
+</div>
