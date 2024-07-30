@@ -3,25 +3,24 @@ layout: default
 ---
 
 
-<button class="tablink" onclick="openPage('Home', this, 'red')">Home</button>
-<button class="tablink" onclick="openPage('News', this, 'green')" id="defaultOpen">News</button>
-<button class="tablink" onclick="openPage('Contact', this, 'blue')">Contact</button>
-<button class="tablink" onclick="openPage('About', this, 'orange')">About</button>
+<button class="tablink" onclick="openPage('Home', this, 'grey')">Home</button>
+<button class="tablink" onclick="openPage('News', this, 'grey')" id="defaultOpen">News</button>
+<button class="tablink" onclick="openPage('Contact', this, 'grey')">Contact</button>
+<button class="tablink" onclick="openPage('About', this, 'grey')">About</button>
 
 
 <div id="Home" class="tabcontent">
   <h3>Home</h3>
-  <p>Home is where the heart is..</p>
+  {% for post in site.posts %}
+  <time>{{ post.date | date: "%b %-d, %Y" }}</time>
+  <h3><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
+  {% endfor %}
 </div>
 
 <div id="News" class="tabcontent">
   <h3>News</h3>
   <p>Some news this fine day!</p>
 
-  {% for post in site.posts %}
-  <time>{{ post.date | date: "%b %-d, %Y" }}</time>
-  <h3><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
-  {% endfor %}
 
 
 </div>
