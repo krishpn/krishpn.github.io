@@ -2,10 +2,6 @@
 title: "This is a Leonids Themes YAML from `prettydoc` Package"
 author: "Type your name here"
 date: "`r Sys.Date()`"
-output: 
-  prettydoc::html_pretty:
-    theme: leonids
-    toc: yes
 ---
 
 Range of Topics
