@@ -1,7 +1,7 @@
 ---
 title: "This is a Leonids Themes YAML from `prettydoc` Package"
 author: "Type your name here"
-date: "`r Sys.Date()`"
+date: 2020-06-27
 ---
 
 Range of Topics
