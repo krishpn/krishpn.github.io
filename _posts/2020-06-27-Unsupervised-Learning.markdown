@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Unsupervised Learning"
+title:  "Unsupervised Learning Test"
 date:   2020-06-27
 author: Krishna Neupane
 ---
