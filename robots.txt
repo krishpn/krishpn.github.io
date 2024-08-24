@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://krishna.github.io/sitemap.xml
+Sitemap: https://krishpn.github.io/sitemap.xml
