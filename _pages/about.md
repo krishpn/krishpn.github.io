@@ -17,10 +17,12 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi, I am Krishna Neupane, PhD Student.   
+Hi, I am Krishna Neupane, PhD Student.
+
+Current Project: [Financial Anomalies](https://github.com/krishpn/financialanomalies)
 
 TODO: Upcoming publications :  Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
-Social Media: [tweet](https://x.com/kneupane) [subreddit](https://www.reddit.com/user/okaychata/) and [github](https://github.com/krishpn)
+Social Media: [tweet](https://x.com/kneupane), [subreddit](https://www.reddit.com/user/okaychata/) and [github](https://github.com/krishpn)
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/)
