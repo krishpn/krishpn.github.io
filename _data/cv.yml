@@ -2,18 +2,16 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Krishna Neupane
     - name: Languages
-      value: English, German
+      value: Nepali, English
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: PhD Candidate
+      institution: George Mason University
+      year: 2025
       description:
         - Description 1.
         - Description 2.
@@ -64,9 +62,9 @@
 - title: Open Source Projects
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
+    - title: <a href="https://github.com/krishpn">krishpn</a>
       year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+      description: A beautiful, simple, clean, and responsive Jekyll app for my work.
 
 - title: Honors and Awards
   type: time_table
