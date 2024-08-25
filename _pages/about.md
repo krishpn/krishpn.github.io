@@ -22,6 +22,7 @@ Hi, I am Krishna Neupane a PhD candidate studying the insider trading.
 Current Projects:
 - [Insider Trade](https://github.com/krishpn/insidertrader.git)
 - [Financial Anomalies](https://github.com/krishpn/financialanomalies)
+- [Academic Citation Graph](https://github.com/krishpn/academic_graphs)
 
 TODO: Upcoming publications :  Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
