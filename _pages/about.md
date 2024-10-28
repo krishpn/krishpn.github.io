@@ -28,4 +28,4 @@ TODO: Upcoming publications :  Edit `_bibliography/papers.bib` and Jekyll will r
 
 Social Media: [tweet](https://x.com/kneupane), [subreddit](https://www.reddit.com/user/okaychata/) and [github](https://github.com/krishpn)
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/)
+<!-- Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/) -->
