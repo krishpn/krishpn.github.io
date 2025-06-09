@@ -1,5 +1,5 @@
-Hi, I am Krishna Neupane, PhD Student.  Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hello, I am Krishna Neupane. I completed my PhD in Computational Sciences and Informatics from George Mason University in 2025. My research interests include application of machine learning techniques in finance and economics. I am also interested in the intersection of machine learning and computational social science.
 
-You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+
 
 <!-- Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
