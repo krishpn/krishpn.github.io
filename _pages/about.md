@@ -17,14 +17,14 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi, I am Krishna Neupane a PhD candidate studying the insider trading.
+Hi, I completed my PhD in Computational Sciences and Informatics from George Mason University. I am interested in intersection of Machine Learning, Asset Pricing and Anomalies and Corporate Governance.
 
 Current Projects:
 - [Insider Trade](https://github.com/krishpn/insidertrader.git)
 - [Financial Anomalies](https://github.com/krishpn/financialanomalies)
 - [Academic Citation Graph](https://github.com/krishpn/academic_graphs)
 
-TODO: Upcoming publications :  Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+
 
 Social Media: [tweet](https://x.com/kneupane), [subreddit](https://www.reddit.com/user/okaychata/) and [github](https://github.com/krishpn)
 
