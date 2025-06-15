@@ -22,7 +22,7 @@
       "url": "https://bah.com",
       "startDate": "2019-09",
       "endDate": "Present",
-      "summary": "I am Machine Learning Engineer",
+      "summary": "I am a Machine Learning Engineer",
       "highlights": ["Asymmetric Information"]
     }
   ],
@@ -34,7 +34,8 @@
       "url": "https://gmu.edu/",
       "area": "Software Development",
       "studyType": "PhD",
-      "startDate": "2025"
+      "startDate": "2018",
+      "endDate": "2025"
     }
   ],
   
@@ -43,7 +44,7 @@
     {
       "name": "A Random Forest approach to detect and identify Unlawful Insider Trading",
       "publisher": "Computational Economics",
-      "releaseDate": "1905-06-30",
+      "releaseDate": "2025-06",
       "url": "https://link.springer.com/article/10.1007/s10614-025-10993-2",
       "summary": "This research significantly improves the detection of unlawful insider trading (UIT). By expanding the dataset to 3,984 transactions and incorporating 85 new, highly informative features (totaling 110), our Random Forest (RF) model achieved over 95% accuracy in identifying UIT. This is a substantial improvement over previous methods. The study highlights the crucial roles of corporate governance factors, data quality, and feature engineering in successful UIT detection, demonstrating the effectiveness of machine learning in automating this complex task and reducing reliance on manual review."
     }
