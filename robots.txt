@@ -1,4 +1,1 @@
-User-agent: *
-Disallow:
-
 Sitemap: https://krishpn.github.io/sitemap.xml
