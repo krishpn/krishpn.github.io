@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Financial Anomalies
-date: 2024-08-24
+date: 2025-06-15
 inline: false
 related_posts: false
 ---
