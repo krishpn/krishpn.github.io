@@ -1,8 +1,8 @@
 ---
 layout: about
-title: about
+title: home
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+# subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
@@ -11,6 +11,8 @@ profile:
   more_info: >
     <p>Department of Computational Sciences and Informatics</p>
     <p>George Mason University</p>
+    <p>Finding harmony in the data. I’m fascinated by how Machine Learning and Corporate Governance can help us navigate information gaps and the beautiful, complex human networks that power our financial world.</p>
+
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
