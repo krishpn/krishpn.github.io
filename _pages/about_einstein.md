@@ -1,4 +1,4 @@
-Hello, I am Krishna Neupane. I completed my PhD in Computational Sciences and Informatics from George Mason University in 2025. My research interests include application of machine learning techniques in finance and economics. I am also interested in the intersection of machine learning and computational social science.
+<!-- Hello, I am Krishna Neupane. I completed my PhD in Computational Sciences and Informatics from George Mason University in 2025. My research interests include application of machine learning techniques in finance and economics. I am also interested in the intersection of machine learning and computational social science. -->
 
 
 

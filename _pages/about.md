@@ -19,7 +19,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi, I completed my PhD in Computational Sciences and Informatics from George Mason University. I am interested in intersection of Machine Learning, Asset Pricing and Anomalies and Corporate Governance.
+<!-- Hi, I completed my PhD in Computational Sciences and Informatics from George Mason University. I am interested in intersection of Machine Learning, Asset Pricing and Anomalies and Corporate Governance. -->
 
 Current Projects:
 - [Insider Trade](https://github.com/krishpn/insidertrader.git)
