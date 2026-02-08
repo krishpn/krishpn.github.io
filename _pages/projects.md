@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Research and analysis
+title: research and analysis
 permalink: /projects/
 nav: true
 nav_order: 3
