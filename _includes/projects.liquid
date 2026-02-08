@@ -11,9 +11,19 @@
           class="card-img-top"
         %}
       {% endif %}
+      
       <div class="card-body">
         <h2 class="card-title">{{ project.title }}</h2>
-        <p class="card-text">{{ project.description }}</p>
+        <p class="card-text">
+          {{ project.description }}
+        </p>
+        
+        {% unless project.img %}
+          <p class="card-text text-muted" style="font-size: 0.9rem;">
+            {{ project.content | strip_html | truncatewords: 25 }}
+          </p>
+        {% endunless %}
+
         <div class="row ml-1 mr-1 p-0">
           {% if project.github %}
             <div class="github-icon">
