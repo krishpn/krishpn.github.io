@@ -2,30 +2,23 @@
 layout: about
 title: home
 permalink: /
-nav: false
+nav: true
 nav_order: 1
-# subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: false 
   more_info: >
     <p>I’m fascinated by how Machine Learning and Corporate Governance can help us navigate information gaps and the beautiful, complex human networks that power our financial world.</p>
-news: false # includes a list of news items
+    <div class="social-links" style="margin-top: 15px; font-size: 0.95rem;">
+      <strong>Social:</strong> 
+      <a href="https://x.com/kneupane" target="_blank">tweet</a> | 
+      <a href="https://www.reddit.com/user/okaychata/" target="_blank">subreddit</a> | 
+      <a href="https://github.com/krishpn" target="_blank">github</a>
+    </div>
+news: false 
 projects: true
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+selected_papers: true 
+social: true 
 ---
-
-
-Current Projects:
-- [Insider Trade](https://github.com/krishpn/insidertrader.git)
-- [Financial Anomalies](https://github.com/krishpn/financialanomalies)
-- [Academic Citation Graph](https://github.com/krishpn/academic_graphs)
-
-
-
-Social Media: [tweet](https://x.com/kneupane), [subreddit](https://www.reddit.com/user/okaychata/) and [github](https://github.com/krishpn)
-
-
