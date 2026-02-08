@@ -10,7 +10,7 @@ nav_order: 3
   {% assign categories = "work, fun" | split: ", " %}
   {% for category in categories %}
     <h2 class="category">{{ category }}</h2>
-    {% assign categorized_projects = site.projects | where: "category", category %}
+    {% assign categorized_projects = site.projects | where: "category", category | sort: "date" | reverse %}
     <div class="container">
       <div class="row row-cols-1 row-cols-md-3">
         {% for project in categorized_projects %}
