@@ -14,11 +14,17 @@ layout: default
   </header>
 
   <article>
-  
+    
     {% if page.projects %}
       <div class="projects-feed" style="margin-top: 20px;">
         <h2><a href="{{ '/projects/' | relative_url }}" style="color: inherit">projects</a></h2>
-        {% assign sorted_projects = site.projects | sort: "importance" %}
+        
+        {% comment %} 
+          We changed the sort from 'importance' to 'date' and added 'reverse'. 
+          This ensures the newest projects from 2026 appear first.
+        {% endcomment %}
+        {% assign sorted_projects = site.projects | sort: "date" | reverse %}
+        
         {% for project in sorted_projects limit: 5 %}
           <div class="row mb-3">
             <div class="col-3 col-md-2">
