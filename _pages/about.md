@@ -2,7 +2,7 @@
 layout: about
 title: home
 permalink: /
-nav: true
+nav: false
 nav_order: 1
 # subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
@@ -11,14 +11,13 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Finding harmony in the data. I’m fascinated by how Machine Learning and Corporate Governance can help us navigate information gaps and the beautiful, complex human networks that power our financial world.</p>
+    <p>I’m fascinated by how Machine Learning and Corporate Governance can help us navigate information gaps and the beautiful, complex human networks that power our financial world.</p>
 news: false # includes a list of news items
 projects: true
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-<!-- Hi, I completed my PhD in Computational Sciences and Informatics from George Mason University. I am interested in intersection of Machine Learning, Asset Pricing and Anomalies and Corporate Governance. -->
 
 Current Projects:
 - [Insider Trade](https://github.com/krishpn/insidertrader.git)
