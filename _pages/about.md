@@ -1,6 +1,5 @@
 ---
 layout: about
-title: home
 permalink: /
 nav: true
 nav_order: 1
@@ -15,10 +14,12 @@ profile:
       <strong>Social:</strong> 
       <a href="https://x.com/kneupane" target="_blank">twitter</a> | 
       <a href="https://www.reddit.com/user/okaychata/" target="_blank">reddit</a> | 
-      <a href="https://github.com/krishpn" target="_blank">github</a>
+      <a href="https://github.com/krishpn" target="_blank">github</a>|
+      <a href="https://scholar.google.com/citations?user=Dx-ILfUAAAAJ&hl=en" target="_blank">google scholar</a>
     </div>
 news: false 
 projects: true
 selected_papers: true 
 social: true 
 ---
+
