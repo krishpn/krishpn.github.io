@@ -3,14 +3,14 @@
     "name": "Krishna Neupane",
     "label": "Scientist",
     "image": "",
-    "email": "kneupan@gmu.edu",
+    "email": "kneupan@gmu.edu; neupane.krish.p@gmail.com",
     "url": "https://krishpn.github.io/",
-    "summary": "A Nepali-American specializing in Various areas of Machine Learning, Economics and Finance",
+    "summary": "I find a quiet beauty in the way Machine Learning, Economics, Finance, and Human Behavior lean upon one another. To the casual observer, these systems appear as a chaotic tangle; to the scientist, they are an intertwined architecture waiting for a more elegant design. There is a deep joy in architecting these forces until the complex becomes clear. The most powerful solutions are those that even a child can understand.",
     "location": "Washington, DC Metro",
     "profiles": [
       {
         "network": "Twitter",
-        "username": "AlbertEinstein",
+        "username": "kneupane",
         "url": "https://twitter.com/kneupane"
       }
     ]
@@ -21,9 +21,7 @@
       "position": "Senior Lead Scientist",
       "url": "https://bah.com",
       "startDate": "2019-09",
-      "endDate": "Present",
-      "summary": "I am a Machine Learning Engineer",
-      "highlights": ["Asymmetric Information"]
+      "endDate": "Present"
     }
   ],
   
@@ -32,9 +30,9 @@
       "institution": "George Mason University",
       "location": "Fairfax, VA",
       "url": "https://gmu.edu/",
-      "area": "Software Development",
+      "area": "Computational Sciences and Informatics",
       "studyType": "PhD",
-      "startDate": "2018",
+      "startDate": "2019",
       "endDate": "2025"
     }
   ],
@@ -91,33 +89,33 @@
     {
       "name": "Assc. Prof. Igor Griva",
       "icon": "fa-solid fa-laptop",
-      "reference": "Dr. Griva is my PhD Advisor"
+      "reference": "Doctoral Director/Advisor"
     },
     {
       "name": "Prof. Robert Axtell",
       "icon": "fa-solid fa-thumbtack",
-      "reference": "Dr. Axtell is my PhD Committee Member"
+      "reference": "Doctoral Committee Member"
     },
     {
       "name": "Assc. Prof. Jason Kinser",
       "icon": "fa-solid fa-thumbtack",
-      "reference": "Dr. Kinser is my PhD Committee Member and Associate Dean of College of Sciences, GMU"
+      "reference": "Doctoral Committee PhD Committee Member and Associate Dean of College of Sciences"
     },
     {
       "name": "Research Prof. William Kennedy",
       "icon": "fa-solid fa-thumbtack",
-      "reference": "Dr. Kinser is my PhD Committee Member."
+      "reference": "Doctoral Committee Member."
     },
     {
       "name": "Graham Gilmer",
       "icon": "fa-solid fa-thumbtack",
-      "reference": "Graham is Sr. Vice President at Booz Allen Hamilton, Inc."
+      "reference": "Executive Sr. Vice President at Booz Allen Hamilton, Inc."
     }
     ,
     {
       "name": "Nathan Keegan",
       "icon": "fa-solid fa-thumbtack",
-      "reference": "Nathan is CTO at Booz Allen Hamilton, Inc."
+      "reference": "Director/ CTO Booz Allen Hamilton, Inc."
     }
   ],
   "projects": [
