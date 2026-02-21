@@ -16,6 +16,8 @@ profile:
       <a href="https://www.reddit.com/user/okaychata/" target="_blank">reddit</a> | 
       <a href="https://github.com/krishpn" target="_blank">github</a>|
       <a href="https://scholar.google.com/citations?user=Dx-ILfUAAAAJ&hl=en" target="_blank">google scholar</a>
+      <a href="https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=10456476">SSRN</a>
+      
     </div>
 news: false 
 projects: true
